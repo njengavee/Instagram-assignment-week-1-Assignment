@@ -1,4 +1,11 @@
-# Approach to measuring the success of IGTV
+# Project 1: Approach to measuring the success of IGTV
+Instagram TV (IGTV) is a video platform that allows users to view and upload long videos on the Instagram app.
+It enables users to easily watch videos along with regular instagram posts on their feed or from a dedicated
+IGTV section. In the digital era, social media platforms such as IGTV have become a vital medium for businesses to connect with their target audience, build relationships and promote their products and services.
+The digital landscape is continuously evolving with new platforms coming up and it is therefore it is important for IGTV to keep up with the new trends to ensure it's on top of the game. 
+
+As a data scientist at Instagram, you need to measure the success of IGTV to identify areas of improvement, to understand user needs and experience to make changes accordingly.
+
 
 ## Step-by-step approach to measuring the success of IGTV:
 
